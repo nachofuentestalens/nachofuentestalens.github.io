@@ -6757,4 +6757,11 @@ button.close {
     display: none !important;
   }
 }
+
+.leftlogo {
+  position: absolute;
+  left: 20px;
+  top: 300px;
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
